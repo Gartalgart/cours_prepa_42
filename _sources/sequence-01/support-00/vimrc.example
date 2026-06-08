@@ -1,0 +1,47 @@
+" ============================================================================ "
+"   .vimrc — Configuration vim pour la piscine 42                              "
+"   Voir : docs/preparer/environnement.md                                      "
+" ============================================================================ "
+
+" === Indentation : OBLIGATOIRE pour la Norm 42 ===
+set tabstop=4
+set shiftwidth=4
+set noexpandtab
+set autoindent
+set smartindent
+set cinoptions=l1,t0
+
+" === Affichage ===
+syntax on
+set number
+set ruler
+set showcmd
+set cursorline
+set colorcolumn=81
+
+" === Recherche ===
+set hlsearch
+set incsearch
+set ignorecase
+set smartcase
+
+" === Confort ===
+set wildmenu
+set autoread
+set encoding=utf-8
+set fileencoding=utf-8
+set backspace=indent,eol,start
+set mouse=a
+
+" === Sauvegardes (évite les .swp partout) ===
+set nobackup
+set noswapfile
+
+" === Reprise à la position précédente dans un fichier ===
+autocmd BufReadPost *
+    \ if line("'\"") > 1 && line("'\"") <= line("$") |
+    \   exe "normal! g`\"" |
+    \ endif
+
+" === Raccourci 42header (F1) ===
+nnoremap <F1> :Stdheader<CR>

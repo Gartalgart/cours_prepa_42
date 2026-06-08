@@ -1,0 +1,86 @@
+site_name: Bases du C aux normes 42
+site_description: Cours de programmation C aux normes de l'École 42 — préparation piscine et complément BTS CIEL
+site_author: Rémy Denimal
+site_url: https://bases-c42.fr  # À mettre à jour avec le domaine final
+
+repo_name: bases-c42
+repo_url: https://github.com/rdenimal/bases-c42  # À mettre à jour avec l'URL du repo
+
+theme:
+  name: material
+  language: fr
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Passer en mode sombre
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Passer en mode clair
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+  custom_dir: docs/
+
+extra_css:
+  - stylesheets/extra.css
+
+extra_javascript:
+  - assets/js/quiz.js
+
+plugins:
+  - search:
+      lang: fr
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+
+nav:
+  - Accueil: index.md
+  - Introduction: introduction/index.md
+  - Séquence 1:
+    - Présentation: sequence-01/index.md
+    - Support 00 — Environnement:
+      - Cours: sequence-01/support-00/cours.md
+      - Exercices: sequence-01/support-00/exercices.md
+    - Support 01 — Premier programme:
+      - Cours: sequence-01/support-01/cours.md
+      - Exercices: sequence-01/support-01/exercices.md
+    - Support 02 — Caractères et affichage:
+      - Cours: sequence-01/support-02/cours.md
+      - Exercices: sequence-01/support-02/exercices.md
+    - Support 03 — Variables et types:
+      - Cours: sequence-01/support-03/cours.md
+      - Exercices: sequence-01/support-03/exercices.md
+  - Ressources:
+    - Synthèse de la Norm 42: ressources/norm-42.md
+    - Makefiles: ressources/makefile.md
+    - Compilation: ressources/compilation.md
+    - Glossaire: ressources/glossaire.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/rdenimal

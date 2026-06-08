@@ -1,0 +1,30 @@
+name: Norminette
+
+on:
+  push:
+    paths:
+      - 'examples/**/*.c'
+      - 'examples/**/*.h'
+  pull_request:
+    paths:
+      - 'examples/**/*.c'
+      - 'examples/**/*.h'
+
+jobs:
+  norminette:
+    name: Vérification Norm 42
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Installer norminette
+        run: pip install norminette
+
+      - name: Lancer norminette
+        run: norminette examples/
