@@ -1,10 +1,10 @@
-site/
 __pycache__/
 *.pyc
-.venv/
-venv/
 examples/**/*.out
 examples/**/*.o
 .DS_Store
 *.swp
 *.swo
+docs/
+*.md
+*.pdf
