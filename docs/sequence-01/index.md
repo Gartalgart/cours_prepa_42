@@ -11,7 +11,7 @@ Cette séquence couvre les fondamentaux de la programmation en C : de la mise en
 | [Support 01](support-01/cours.md) | Premier programme | ✅ Disponible |
 | [Support 02](support-02/cours.md) | Caractères et affichage | ✅ Disponible |
 | [Support 03](support-03/cours.md) | Variables et types | ✅ Disponible |
-| Support 04 | Opérateurs | À venir |
+| [Support 04](support-04/cours.md) | Opérateurs | ✅ Disponible |
 | Support 05 | Conditions | À venir |
 | Support 06 | Boucles | À venir |
 | Support 07 | Fonctions | À venir |
