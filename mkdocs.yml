@@ -77,6 +77,9 @@ nav:
     - Support 04 — Opérateurs:
       - Cours: sequence-01/support-04/cours.md
       - Exercices: sequence-01/support-04/exercices.md
+    - Support 05 — Conditions:
+      - Cours: sequence-01/support-05/cours.md
+      - Exercices: sequence-01/support-05/exercices.md
   - Ressources:
     - Synthèse de la Norm 42: ressources/norm-42.md
     - Makefiles: ressources/makefile.md
