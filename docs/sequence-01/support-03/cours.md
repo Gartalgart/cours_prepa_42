@@ -316,4 +316,4 @@ Si tu manipules des nombres potentiellement grands (compteurs, sommes, produits)
 ---
 
 ➡️ **Exercices du support :** [voir la page exercices](./exercices.md)
-➡️ **Support suivant :** Support 04 — Opérateurs *(à venir)*
+➡️ **Support suivant :** [Support 04 — Opérateurs](../support-04/cours.md)

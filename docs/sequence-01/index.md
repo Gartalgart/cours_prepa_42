@@ -12,12 +12,12 @@ Cette séquence couvre les fondamentaux de la programmation en C : de la mise en
 | [Support 02](support-02/cours.md) | Caractères et affichage | ✅ Disponible |
 | [Support 03](support-03/cours.md) | Variables et types | ✅ Disponible |
 | [Support 04](support-04/cours.md) | Opérateurs | ✅ Disponible |
-| Support 05 | Conditions | À venir |
-| Support 06 | Boucles | À venir |
-| Support 07 | Fonctions | À venir |
-| Support 08 | Tableaux et chaînes | À venir |
-| Support 09 | Pointeurs (initiation) | À venir |
-| Bilan | Mini-projet récapitulatif | À venir |
+| [Support 05](support-05/cours.md) | Conditions | ✅ Disponible |
+| [Support 06](support-06/cours.md) | Boucles | ✅ Disponible |
+| [Support 07](support-07/cours.md) | Fonctions | ✅ Disponible |
+| [Support 08](support-08/cours.md) | Tableaux et chaînes | ✅ Disponible |
+| [Support 09](support-09/cours.md) | Pointeurs (initiation) | ✅ Disponible |
+| [Bilan](Bilan/bilan.md) | Mini-projet récapitulatif | ✅ Disponible |
 
 !!! note "À retenir"
     Chaque support inclut un cours et des exercices. Fais les exercices avant de passer au support suivant.

@@ -12,7 +12,8 @@
       "Bash(rm /c/Users/rdenimal/Documents/dev_perso/cours_C/site_cours_C/docs/sequence-01/support-03/ex0*.c /c/Users/rdenimal/Documents/dev_perso/cours_C/site_cours_C/docs/sequence-01/support-03/Makefile)",
       "Bash(rtk git *)",
       "Bash(cp /c/Users/rdenimal/Documents/dev_perso/cours_C/site_cours_C/docs/sequence-01/support-04/ex0*.c /c/Users/rdenimal/Documents/dev_perso/cours_C/site_cours_C/examples/sequence-01/support-04/)",
-      "Bash(rm /c/Users/rdenimal/Documents/dev_perso/cours_C/site_cours_C/docs/sequence-01/support-04/ex0*.c /c/Users/rdenimal/Documents/dev_perso/cours_C/site_cours_C/docs/sequence-01/support-04/Makefile)"
+      "Bash(rm /c/Users/rdenimal/Documents/dev_perso/cours_C/site_cours_C/docs/sequence-01/support-04/ex0*.c /c/Users/rdenimal/Documents/dev_perso/cours_C/site_cours_C/docs/sequence-01/support-04/Makefile)",
+      "Bash(grep *)"
     ]
   }
 }

@@ -223,4 +223,4 @@ Tu n'as pas besoin d'apprendre la Norm par cœur dès maintenant — on l'introd
 ---
 
 ➡️ **Exercices du support :** [voir la page exercices](./exercices.md)
-➡️ **Support suivant :** Support 02 — Caractères et affichage *(à venir)*
+➡️ **Support suivant :** [Support 02 — Caractères et affichage](../support-02/cours.md)
