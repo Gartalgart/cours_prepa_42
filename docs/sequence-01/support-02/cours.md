@@ -288,4 +288,4 @@ Certains caractères existent mais ne « s'affichent » pas visiblement. Ils con
 ---
 
 ➡️ **Exercices du support :** [voir la page exercices](./exercices.md)
-➡️ **Support suivant :** Support 03 — Variables et types *(à venir)*
+➡️ **Support suivant :** [Support 03 — Variables et types](../support-03/cours.md)

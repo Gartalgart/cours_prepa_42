@@ -2,78 +2,114 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://bases-c42.fr/</loc>
-         <lastmod>2026-06-10</lastmod>
+         <lastmod>2026-06-13</lastmod>
     </url>
     <url>
          <loc>https://bases-c42.fr/introduction/</loc>
-         <lastmod>2026-06-10</lastmod>
+         <lastmod>2026-06-13</lastmod>
     </url>
     <url>
          <loc>https://bases-c42.fr/ressources/compilation/</loc>
-         <lastmod>2026-06-10</lastmod>
+         <lastmod>2026-06-13</lastmod>
     </url>
     <url>
          <loc>https://bases-c42.fr/ressources/glossaire/</loc>
-         <lastmod>2026-06-10</lastmod>
+         <lastmod>2026-06-13</lastmod>
     </url>
     <url>
          <loc>https://bases-c42.fr/ressources/makefile/</loc>
-         <lastmod>2026-06-10</lastmod>
+         <lastmod>2026-06-13</lastmod>
     </url>
     <url>
          <loc>https://bases-c42.fr/ressources/norm-42/</loc>
-         <lastmod>2026-06-10</lastmod>
+         <lastmod>2026-06-13</lastmod>
     </url>
     <url>
          <loc>https://bases-c42.fr/sequence-01/</loc>
-         <lastmod>2026-06-10</lastmod>
+         <lastmod>2026-06-13</lastmod>
+    </url>
+    <url>
+         <loc>https://bases-c42.fr/sequence-01/Bilan/bilan/</loc>
+         <lastmod>2026-06-13</lastmod>
     </url>
     <url>
          <loc>https://bases-c42.fr/sequence-01/support-00/cours/</loc>
-         <lastmod>2026-06-10</lastmod>
+         <lastmod>2026-06-13</lastmod>
     </url>
     <url>
          <loc>https://bases-c42.fr/sequence-01/support-00/exercices/</loc>
-         <lastmod>2026-06-10</lastmod>
+         <lastmod>2026-06-13</lastmod>
     </url>
     <url>
          <loc>https://bases-c42.fr/sequence-01/support-01/cours/</loc>
-         <lastmod>2026-06-10</lastmod>
+         <lastmod>2026-06-13</lastmod>
     </url>
     <url>
          <loc>https://bases-c42.fr/sequence-01/support-01/exercices/</loc>
-         <lastmod>2026-06-10</lastmod>
+         <lastmod>2026-06-13</lastmod>
     </url>
     <url>
          <loc>https://bases-c42.fr/sequence-01/support-02/cours/</loc>
-         <lastmod>2026-06-10</lastmod>
+         <lastmod>2026-06-13</lastmod>
     </url>
     <url>
          <loc>https://bases-c42.fr/sequence-01/support-02/exercices/</loc>
-         <lastmod>2026-06-10</lastmod>
+         <lastmod>2026-06-13</lastmod>
     </url>
     <url>
          <loc>https://bases-c42.fr/sequence-01/support-03/cours/</loc>
-         <lastmod>2026-06-10</lastmod>
+         <lastmod>2026-06-13</lastmod>
     </url>
     <url>
          <loc>https://bases-c42.fr/sequence-01/support-03/exercices/</loc>
-         <lastmod>2026-06-10</lastmod>
+         <lastmod>2026-06-13</lastmod>
     </url>
     <url>
          <loc>https://bases-c42.fr/sequence-01/support-04/cours/</loc>
-         <lastmod>2026-06-10</lastmod>
+         <lastmod>2026-06-13</lastmod>
     </url>
     <url>
          <loc>https://bases-c42.fr/sequence-01/support-04/exercices/</loc>
-         <lastmod>2026-06-10</lastmod>
+         <lastmod>2026-06-13</lastmod>
     </url>
     <url>
          <loc>https://bases-c42.fr/sequence-01/support-05/cours/</loc>
-         <lastmod>2026-06-10</lastmod>
+         <lastmod>2026-06-13</lastmod>
     </url>
     <url>
          <loc>https://bases-c42.fr/sequence-01/support-05/exercices/</loc>
-         <lastmod>2026-06-10</lastmod>
+         <lastmod>2026-06-13</lastmod>
+    </url>
+    <url>
+         <loc>https://bases-c42.fr/sequence-01/support-06/cours/</loc>
+         <lastmod>2026-06-13</lastmod>
+    </url>
+    <url>
+         <loc>https://bases-c42.fr/sequence-01/support-06/exercices/</loc>
+         <lastmod>2026-06-13</lastmod>
+    </url>
+    <url>
+         <loc>https://bases-c42.fr/sequence-01/support-07/cours/</loc>
+         <lastmod>2026-06-13</lastmod>
+    </url>
+    <url>
+         <loc>https://bases-c42.fr/sequence-01/support-07/exercices/</loc>
+         <lastmod>2026-06-13</lastmod>
+    </url>
+    <url>
+         <loc>https://bases-c42.fr/sequence-01/support-08/cours/</loc>
+         <lastmod>2026-06-13</lastmod>
+    </url>
+    <url>
+         <loc>https://bases-c42.fr/sequence-01/support-08/exercices/</loc>
+         <lastmod>2026-06-13</lastmod>
+    </url>
+    <url>
+         <loc>https://bases-c42.fr/sequence-01/support-09/cours/</loc>
+         <lastmod>2026-06-13</lastmod>
+    </url>
+    <url>
+         <loc>https://bases-c42.fr/sequence-01/support-09/exercices/</loc>
+         <lastmod>2026-06-13</lastmod>
     </url>
 </urlset>

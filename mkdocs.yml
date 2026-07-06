@@ -80,6 +80,19 @@ nav:
     - Support 05 — Conditions:
       - Cours: sequence-01/support-05/cours.md
       - Exercices: sequence-01/support-05/exercices.md
+    - Support 06 — Boucles:
+      - Cours: sequence-01/support-06/cours.md
+      - Exercices: sequence-01/support-06/exercices.md
+    - Support 07 — Fonctions:
+      - Cours: sequence-01/support-07/cours.md
+      - Exercices: sequence-01/support-07/exercices.md
+    - Support 08 — Tableaux et chaînes:
+      - Cours: sequence-01/support-08/cours.md
+      - Exercices: sequence-01/support-08/exercices.md
+    - Support 09 — Pointeurs (initiation):
+      - Cours: sequence-01/support-09/cours.md
+      - Exercices: sequence-01/support-09/exercices.md
+    - Bilan — Mini-projet récapitulatif: sequence-01/Bilan/bilan.md
   - Ressources:
     - Synthèse de la Norm 42: ressources/norm-42.md
     - Makefiles: ressources/makefile.md
