@@ -5,6 +5,5 @@ examples/**/*.o
 .DS_Store
 *.swp
 *.swo
-docs/
-*.md
 *.pdf
+site/
